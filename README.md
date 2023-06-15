@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AkileshSaravanan&label=Views&color=blue&style=plastic&style=for-the-badge" alt="AkileshSaravanan" /> </p>
 
 ## 💫 About Me :
-- 😄 Pronouns: He/His
+- 😄 Pronouns: He/Him
 - 🌱 I’m currently learning more about **Java and Data Scientist**.
 - 🤔 I’m looking for help with upgrading with new technologies.
 - 📝 I regularly update on **<a href="https://www.linkedin.com/in/Akilesh--S">LinkedIn</a>**
