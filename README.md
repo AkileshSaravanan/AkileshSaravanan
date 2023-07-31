@@ -7,7 +7,7 @@
 
 ## 💫 About Me :
 - 😄 Pronouns: He/Him
-- 🌱 I’m currently learning more about **Java and Data Scientist**.
+- 🌱 I’m currently pursing more about **Java and Data Scientist**.
 - 🤔 I’m looking for help with upgrading with new technologies.
 - 📝 I regularly update on **<a href="https://www.linkedin.com/in/Akilesh--S">LinkedIn</a>**
 - 💬 Ask me about any **Tech-related stuff**.
