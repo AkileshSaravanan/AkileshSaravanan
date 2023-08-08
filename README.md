@@ -41,7 +41,7 @@
 	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AkileshSaravanan&theme=vue" />
 </p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=AkileshSaravanan&show_icons=true&locale=en&layout=compact" alt="AkileshSaravanan" /></p>
+<p><img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=AkileshSaravanan&show_icons=true&locale=en&layout=compact" alt="AkileshSaravanan" /></p>
 
 [![](https://visitcount.itsvg.in/api?id=AkileshSaravanan&label=Profile%20Views&color=12&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
