@@ -35,7 +35,7 @@
 <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 
-## 📟 GitHub Stats
+## 📟 GitHub Stats :
 <p align="center">
 	<img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AkileshSaravanan&show_icons=true&theme=vue"/>
 	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AkileshSaravanan&theme=vue" />
