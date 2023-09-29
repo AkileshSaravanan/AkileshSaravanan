@@ -6,7 +6,7 @@
 - 😄 Pronouns: He/Him
 - 🌱 I’m currently pursing more about **Java and Data Scientist**.
 - 🤔 I’m looking for help with upgrading with new technologies.
-- 📝 I regularly update on **<a href="https://www.linkedin.com/in/Akilesh--S">LinkedIn</a>** and **<a href="https://akileshsaravanan.github.io/">Portfolio</a>**
+- 📝 I regularly update on **<a href="https://www.linkedin.com/in/Akilesh--S">LinkedIn</a>** and **<a href="https://akileshsaravanan.github.io/">PortFolio</a>**
 - 💬 Ask me about any **Tech-related stuff**.
 - 📫 How to reach me: **rmsakilesh23@gmail.com** and Check social links below.
 - ⚡ Fun fact: I spend almost 2 hours listening to songs every day.
